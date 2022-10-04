@@ -1,1 +1,1 @@
-<img src="https://github.com/chakraborty-ayan/Repo-Assets/blob/main/mascotas-aseguradas.json"/>
+<p align="right"><img src="https://github.com/chakraborty-ayan/Repo-Assets/blob/main/cartoon-characters.gif"/></p>
