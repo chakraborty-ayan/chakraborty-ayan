@@ -1,5 +1,5 @@
 
-<img width="55%" align="right" src="https://github.com/chakraborty-ayan/Repo-Assets/blob/main/cartoon-characters.gif"/>
+<img align="right" src="https://github.com/chakraborty-ayan/Repo-Assets/blob/main/cartoon-characters.gif"/>
 
 ### Hi there 👋 
 
