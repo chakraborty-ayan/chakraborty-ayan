@@ -27,3 +27,5 @@ Do reach out to me at **ayanac.inbox@gmail.com** 📫 if you like to have a conv
     <img src="https://github.com/ac-ayan/image-assets/blob/master/c%2B%2B.png"  height="60" />
     <img src="https://github.com/ac-ayan/image-assets/blob/master/Mongodatabase.svg"  height="60" />
 </p>
+
+[![@chakraborty_ayan's Holopin board](https://holopin.io/api/user/board?user=chakraborty_ayan)](https://holopin.io/@chakraborty_ayan)
