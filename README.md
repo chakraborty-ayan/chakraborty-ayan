@@ -1,5 +1,3 @@
-
-[![@chakraborty_ayan's Holopin board](https://holopin.io/api/user/board?user=chakraborty_ayan)](https://holopin.io/@chakraborty_ayan)
 <img align="right" src="https://github.com/chakraborty-ayan/Repo-Assets/blob/main/cartoon-characters.gif" width="50%"/>
 
 ### Hi there 👋 
@@ -29,3 +27,4 @@ Do reach out to me at **ayanac.inbox@gmail.com** 📫 if you like to have a conv
     <img src="https://github.com/ac-ayan/image-assets/blob/master/Mongodatabase.svg"  height="60" />
 </p>
 
+[![@chakraborty_ayan's Holopin board](https://holopin.io/api/user/board?user=chakraborty_ayan)](https://holopin.io/@chakraborty_ayan)
